@@ -1,3 +1,5 @@
+For Cobblemon 1.4, Fabric Version
+
 Adds the ability to cook the berries from Cobblemon in the furnace, smoker, and fire to produce an edible variant. 
 
 Currently only the oran berry has been added. 
