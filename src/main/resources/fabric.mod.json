@@ -8,8 +8,8 @@
 		"Jaar"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/BraveNewCliche/Edible-Berries",
+		"sources": "https://github.com/BraveNewCliche/Edible-Berries"
 	},
 	"license": "MIT",
 	"icon": "assets/edible-berries/icon.png",
@@ -32,7 +32,8 @@
 		"fabricloader": ">=0.15.6",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"cobblemon": ">1.4"
 
 	},
 	"suggests": {

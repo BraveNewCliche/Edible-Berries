@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "edibleberries:item/baked_oran_berry"
+  }
+}
