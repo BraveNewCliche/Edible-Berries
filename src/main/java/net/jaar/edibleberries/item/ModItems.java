@@ -11,12 +11,12 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
-    public static final Item BakedOranBerry = registerItem("baked_oran_berry", new Item(new FabricItemSettings().food(ModFoodComponents.BakedOranBerry)));
+    public static final Item BakedBerry = registerItem("baked_berry", new Item(new FabricItemSettings().food(ModFoodComponents.BakedBerry)));
 
     //public static final Item RawOranBerry = registerItem("raw_oran_berry", new Item(new FabricItemSettings()));
 
     public static void addItemsToFoodItemGroup(FabricItemGroupEntries entries) {
-        entries.add(BakedOranBerry);
+        entries.add(BakedBerry);
 
         //entries.add(RawOranBerry);
     }

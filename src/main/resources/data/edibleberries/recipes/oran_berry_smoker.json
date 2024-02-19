@@ -4,7 +4,7 @@
   "cookingtime": 100,
   "experience": 0.35,
   "ingredient": {
-    "item": "cobblemon:oran_berry"
+    "tag": "c:berries"
   },
   "result": "edibleberries:baked_oran_berry"
 }
